@@ -2,7 +2,7 @@
 A simple basic infra-structure of secure network in Karunya Institute of technology and sciences, Karunya Nagar, Coimbatore, Tamil Nadu, India
 ----------------------------------------------------------
 
-		#GEOGRAPHICAL REPRESENTATION
+		# GEOGRAPHICAL REPRESENTATION
 
 ----------------------------------------------------------
 1.DEPARTMENT OF SCIENCE AND HUMANITIES AND 
@@ -18,7 +18,7 @@ A simple basic infra-structure of secure network in Karunya Institute of technol
 10.LIBRARY
 ----------------------------------------------------------
 
-		#DEVICES USED IN THE SYSTEM
+		# DEVICES USED IN THE SYSTEM
 
 ----------------------------------------------------------
 1.MULTILAYER SWITCHES
@@ -44,5 +44,5 @@ A simple basic infra-structure of secure network in Karunya Institute of technol
  THE EACH MAIN SWITCHES AND THEN IT IS CONNECTED TO THE 
  OTHER NETWORK DEVICES IOT DEVICES AND OTHERS RESPECTIVELY.
 ----------------------------------------------------------
-			#THANK YOU
+			# THANK YOU
 ----------------------------------------------------------
